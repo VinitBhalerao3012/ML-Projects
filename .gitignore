@@ -1,0 +1,23 @@
+# macOS junk
+.DS_Store
+__MACOSX/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Model / outputs (optional)
+*.pkl
+*.joblib
+*.onnx
